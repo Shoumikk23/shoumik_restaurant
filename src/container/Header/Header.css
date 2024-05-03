@@ -16,3 +16,11 @@
 .app__header-img img{
     width: 80%;
 }
+
+
+@media screen and (max-width:700px) {
+    .app__header-h1 {
+        font-size:45px;
+        overflow: hidden;
+    }
+}
